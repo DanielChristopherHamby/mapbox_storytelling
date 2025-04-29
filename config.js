@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'Someplace Georgia',
             image: './assets/metal_gear_cover.jpg',
-            description: 'Description of the second location.',
+            description: 'Description of the second location in <em>the Color Purple</.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
