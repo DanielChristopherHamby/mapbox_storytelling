@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Someplace Georgia',
-            image: './assets/keezal_hall.jpg',
+            image: './assets/keezall_hall.jpg',
             description: 'Description of the second location in <em>the Color Purple</.',
             location: {
                 center: [-83.5573651, 32.5573651], 
